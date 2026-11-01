@@ -2,7 +2,7 @@
 
 
 
-El archivo `mpi\_utils.py` contiene funciones auxiliares que pueden ser utilizadas por las diferentes estrategias de paralelización MPI del proyecto de resolución de Sudoku.
+El archivo `mpi_utils.py` contiene funciones auxiliares que pueden ser utilizadas por las diferentes estrategias de paralelización MPI del proyecto de resolución de Sudoku.
 
 
 
